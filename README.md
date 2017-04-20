@@ -1,2 +1,1 @@
-# shikong
-Game Shikong
+shikong
